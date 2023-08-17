@@ -1,4 +1,5 @@
 # my-vue-tailwind
+This is a simple countdown app built with vue.js using composition api. This project is a take-home assignment from the @sailscasts community wednesdays workshop.
 
 ## Project setup
 ```
